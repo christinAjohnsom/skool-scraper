@@ -1,0 +1,8 @@
+{
+  "skool_url": "https://skool.com",
+  "cookies": {
+    "session": "your-session-cookie-value-here"
+  },
+  "crawl_limit": 1000,
+  "output_format": "json"
+}

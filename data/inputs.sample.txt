@@ -1,0 +1,3 @@
+# List of start URLs for scraping
+https://skool.com/group/xyz
+https://skool.com/member/abc
